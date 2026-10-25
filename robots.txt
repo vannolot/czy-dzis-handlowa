@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://czy-dzis-handlowa.pl/sitemap.xml
